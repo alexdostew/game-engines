@@ -1,0 +1,5 @@
+Collect all the chests to win!
+
+Use your 'A' and 'D' keys to move left or right.
+Press Space Bar to jump.
+Jump again while attached to a platform's side wall.
